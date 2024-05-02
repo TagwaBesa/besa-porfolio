@@ -18,11 +18,11 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m Emmanuel Besa</h2>
               <h5 className="mb-4">Full stack Developer</h5>
               <p>
-              👋 I am a web and software developer with 4 years of experience.
+                👋 I am a web and software developer with 4 years of experience.
 
-💻 Crafting digital solutions is my passion. From sleek websites to robust software, I bring ideas to life with clean code and creative flair.
+                💻 Crafting digital solutions is my passion. From sleek websites to robust software, I bring ideas to life with clean code and creative flair.
 
-🚀 Let's collaborate and build something amazing together!
+                🚀 Let&apos;s collaborate and build something amazing together!
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
